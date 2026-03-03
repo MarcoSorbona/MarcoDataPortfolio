@@ -1,32 +1,14 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+### Credits and License
 
+This project's design is based on the **Massively** template by [HTML5 UP](https://html5up.net/).
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+**License:** [Creative Commons Attribution 3.0 License](html5up.net/license). This means you are free to use and adapt the design for personal or commercial projects, provided you give credit to the original creator.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+*   **Original Design:** [AJ](aj@lkn.io) / [@ajlkn](https://twitter.com/ajlkn) at [HTML5 UP](https://html5up.net/)
+*   **Demo Images (if used):** Courtesy of [Unsplash](https://unsplash.com)
+*   **Icons:** [Font Awesome](https://fontawesome.io/)
+*   **Frameworks/Libraries:** [jQuery](https://jquery.com/), [Scrollex](github.com/ajlkn/jquery.scrollex), [Responsive Tools](github.com/ajlkn/responsive-tools)
 
-(* = not included)
+### About the Template
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Massively is a text-heavy, article-oriented design built with a large background image (featuring a parallax effect) and scroll animations. It is a departure from typical single-page designs and showcases techniques like those found in the Scrollex library.
